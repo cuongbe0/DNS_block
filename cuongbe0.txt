@@ -45,3 +45,8 @@
 ||pdata.video.qiyi.com^$important
 ||exmail.qq.com^$important
 ||download.api.bsb.baidu.com^$important
+||mqtt.szbboys.com
+||martianinc.co
+||holadns.com
+||line.me
+||log.cnt.re
