@@ -57,3 +57,4 @@
 ||weixin.qq.com
 ||vip.xunlei.com
 ||wisedevice-hilink-drcn.things.dbankcloud.cn
+||api.locketcamera.com
