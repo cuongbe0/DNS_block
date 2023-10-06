@@ -50,3 +50,9 @@
 ||holadns.com
 ||line.me
 ||log.cnt.re
+||blog.163.com
+||smarthome-drcn.dbankcdn.com
+||*.hicloud.com
+||*.api.bsb.baidu.com
+||weixin.qq.com
+||vip.xunlei.com
