@@ -2,7 +2,6 @@
 ||https://www.vlxx.moe^
 ||vlxx.^
 ||adservice.google.com
-||adservice.google.com^$important
 ||ya.ru^$important
 ||t.163.com^$important
 ||game.163.com^$important
@@ -58,3 +57,4 @@
 ||vip.xunlei.com
 ||wisedevice-hilink-drcn.things.dbankcloud.cn
 ||api.locketcamera.com
+||metrics.icloud.com
