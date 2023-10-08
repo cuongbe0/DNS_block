@@ -17,6 +17,7 @@
 ||apizui.lenovomm.com^$important
 ||icns.zui.lenovomm.com^$important
 ||calendar.lenovomm.com^$important
+||osfsr.lenovomm.com^$important
 ||v9.byteicdn.com^$important
 ||email.163.com^$important
 ||trip.163.com^$important
