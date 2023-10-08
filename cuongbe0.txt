@@ -11,7 +11,10 @@
 ||movies.xunlei.com^$important
 ||10tcp.broadlink.com.cn^$important
 ||hwvipkid.vipkidcdn.com^$important
+||cnszui.lenovomm.com^$important
+||uefsr.lenovomm.com^$important
 ||apizui.lenovomm.com^$important
+||icns.zui.lenovomm.com^$important
 ||v9.byteicdn.com^$important
 ||email.163.com^$important
 ||trip.163.com^$important
