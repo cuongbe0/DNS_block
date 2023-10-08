@@ -1,3 +1,4 @@
+||api.weathercn.com^$important
 ||cliphotvn.*^$important
 ||https://www.vlxx.moe^
 ||vlxx.^
