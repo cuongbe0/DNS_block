@@ -1,6 +1,5 @@
 ||ipinfo.ipidea.io
 ||ifconfig.io
-||register.zaloapp.com
 ||gw.line.naver.jp
 ||lumtest.com
 ||lb11.na.lb.okamiboss.com
